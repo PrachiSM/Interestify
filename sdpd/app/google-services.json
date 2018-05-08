@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "159714993247",
+    "firebase_url": "https://sdpd-90275.firebaseio.com",
+    "project_id": "sdpd-90275",
+    "storage_bucket": "sdpd-90275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159714993247:android:23e8732198de37aa",
+        "android_client_info": {
+          "package_name": "com.example.user.sdpd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159714993247-70amnv8qdmjt3jo1stdlsl0kkeb4idfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.sdpd",
+            "certificate_hash": "bcf1b8ecb2635ffe11956b653a1e1d09db138d07"
+          }
+        },
+        {
+          "client_id": "159714993247-iie7t23boarhulnbdb6nusc3q0r72bn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.sdpd",
+            "certificate_hash": "43e767abe6d1a3d566f169d6081c45461c2a3b41"
+          }
+        },
+        {
+          "client_id": "159714993247-ifmpmbbtlbpj4j8igh70f8pi9vl9s77g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUw2A3iqLOGTHpUxpGDnA0VnAFAXo73gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159714993247-ifmpmbbtlbpj4j8igh70f8pi9vl9s77g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
